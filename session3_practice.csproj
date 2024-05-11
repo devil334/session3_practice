@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="boxingUnboxing.cs" />
+    <Compile Include="constant.cs" />
+    <Compile Include="ConvertToString.cs" />
+    <Compile Include="firstorDeafult.cs" />
+    <Compile Include="Example.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
